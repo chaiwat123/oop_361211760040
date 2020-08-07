@@ -19,7 +19,7 @@ public class Exercise1 {
 
         double total = n1 + n2 + n3 + n4 + n5;//
         System.out.println("ผลรวมคือ "+total);
-        System.out.println("total/5 ");
+        System.out.println("10" + "total/5 ");
 
     }//main
 }

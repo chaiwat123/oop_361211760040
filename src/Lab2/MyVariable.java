@@ -6,7 +6,7 @@ public class MyVariable {
 
      //Data type
      //1. integer จำนวนเต็ม
-     //2. floaะing จำนวนจริง
+     //2. floaing จำนวนจริง
      //3. character อักขระ 1 ตัว
      //4. sTRING ข้อความ
      //5. boolean ค่าความจริง
