@@ -38,7 +38,7 @@ public class Exercise_Lab4 {
         System.out.println("The area of rectangle is:"+(x*y));
     }
     //รูปสามเหลี่ยม
-    public static void () {
+    public static void  findAreaTri() {
         //statement
         Scanner scanner = new Scanner(System.in);
         System.out.print("ฐาน");
